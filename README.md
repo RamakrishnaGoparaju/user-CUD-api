@@ -18,7 +18,8 @@ Example JSON
 {
     "emailId": "rama@gmail.com",
     "firstName": "Rama",
-    "lastName": "Krishna"
+    "lastName": "Krishna",
+    "phoneNumber": 9999999999
 }
 
 UPDATE
